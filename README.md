@@ -1,6 +1,11 @@
 # BraTs_XAI
 
 # Brain Tumor Prediction Web App
+
+![image](https://github.com/saiharshinigarapati/BraTs_XAI/assets/48383338/f6c02cda-1516-41ad-9074-450f7f72cadc)
+
+
+
 ![image](https://github.com/saiharshinigarapati/BraTs_XAI/assets/48383338/d3c91ab8-421d-4bfa-bba9-30a6e109d4e0)
 
 ## Description

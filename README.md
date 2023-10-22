@@ -22,11 +22,12 @@ This Flask web application provides a user interface for brain tumor prediction.
 - View the prediction result with XAI visualizations.
 
 ## Contributors
-- Your Name
+- Sai Harshini Garapati
+- Leela Madhav Somu
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 - Mention any libraries or resources you used for XAI.
-- Give credit to the dataset source or model used for brain tumor prediction.
+- the dataset source  from kaggle

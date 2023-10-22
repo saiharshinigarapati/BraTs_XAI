@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+</head>
+<body>
+    <h1>Welcome, {{ full_name }}!</h1>
+    <p>Email: {{ email }}</p>
+    <p>Date of Birth: {{ date_of_birth }}</p>
+    
+    <form method="POST" enctype="multipart/form-data">
+        <label for="image">Upload Image:</label>
+        <input type="file" name="image" accept="image/*">
+        <input type="submit" value="Upload">
+    </form>
+    
+    <a href="{{ url_for('logout') }}">Logout</a>
+</body>
+</html>

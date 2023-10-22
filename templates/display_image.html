@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Uploaded Image</title>
+</head>
+<body>
+    <h1>Uploaded Image</h1>
+    <img src="{{ url_for('display_image', filename=image_filename) }}" alt="Uploaded Image">
+    <p><a href="{{ url_for('dashboard') }}">Back to Dashboard</a></p>
+</body>
+</html>

@@ -2,6 +2,9 @@
 
 # Brain Tumor Prediction Web App
 
+# Model code is not here, 
+## Reach me, for more updates on model.
+
 ![image](https://github.com/saiharshinigarapati/BraTs_XAI/assets/48383338/f6c02cda-1516-41ad-9074-450f7f72cadc)
 
 
